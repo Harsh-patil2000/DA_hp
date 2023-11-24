@@ -20,9 +20,10 @@ The data source contains mainly 9 csv files with customer data as well as store 
 ### Tools
 
 - Excel - Data Cleaning
-  - [Download here](https://microsoft.com)
 - Power BI - Creating a report
+   -[Click here to see the report]()
 - Tableau - Creating a report
+   -[Click here to see the report]()
 - MySQL - Data Analysis
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
