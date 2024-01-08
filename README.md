@@ -50,6 +50,9 @@ The analysis results are summarized as follows:
 1.The store can give payback options in debit cards so that customers are motivated to use this mode of payment for their purchases.
 2.The store can adopt certain strategies to retain the sales during weekdays by giving special offers.
 3.Other cities should take sales insights from Sao Paulo and use similar strategies to increase their Sales in a similar fashion.
+![Uploading Screenshot 2024-01-08 201347.png…]()
+
+
 
 
 ### Limitations
